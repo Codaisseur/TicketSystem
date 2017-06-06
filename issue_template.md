@@ -1,5 +1,3 @@
-# New Issue.
-
 ## What is your slack name?
 
 ## What is the question you have about your code?
